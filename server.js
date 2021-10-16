@@ -4,7 +4,7 @@ const server = express()
 
 const circuits = require('./circuits.json')
 const functions = require('./functions')
-const pilots = require('./pilots.json')
+const drivers = require('./drivers.json')
 const races = require('./races.json')
 const teams = require('./teams.json')
 
@@ -25,13 +25,13 @@ server.post('/circuits', (req, res) => {
 server.get('/circuits', (req, res) => {
     res.status(200).json(circuits)
 })
-server.post('/pilots', (req, res) => {
+server.post('/drivers', (req, res) => {
     console.log(req.body)
-    pilots.push(req.body)
+    drivers.push(req.body)
     res.status(200).json({sucess:true})
 })
-server.get('/pilots', (req, res) => {
-    res.status(200).json(pilots)
+server.get('/drivers', (req, res) => {
+    res.status(200).json(drivers)
 })
 server.post('/races', (req, res) => {
     console.log(req.body)
@@ -50,5 +50,5 @@ server.get('/teams', (req, res) => {
     res.status(200).json(teams)
 })
 server.listen(3001, () => {
-    console.log('F1 server subiu')
+    console.log('F1 server is crashing!')
 })

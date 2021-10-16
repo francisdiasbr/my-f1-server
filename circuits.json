@@ -5,7 +5,7 @@
     "circuitCity": "Adelaide",
     "circuitFastestLapTime": "1'15\"381",
     "circuitFastestLapYear": "1993",
-    "circuitfastestLapPilot": "Damon Hill"
+    "circuitfastestLapDriver": "Damon Hill"
   },
   {
     "circuitName": "Circuito de Mônaco",
@@ -13,6 +13,6 @@
     "circuitCity": "Monte Carlo",
     "circuitFastestLapTime": "1'12\"909",
     "circuitFastestLapYear": "2021",
-    "circuitFastestLapPilot": "Lewis Hamilton"
+    "circuitFastestLapDriver": "Lewis Hamilton"
   }
 ]
