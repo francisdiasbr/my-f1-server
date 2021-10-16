@@ -1,12 +1,14 @@
 [
   {
-    "name": "Red Bull Racing",
-    "previousname": "Jaguar Racing",
-    "firstrace": "Austrália 2005"
+    "teamName": "Red Bull Racing",
+    "teamPreviousName": "Jaguar Racing",
+    "teamFirstRace": "Austrália 2005",
+    "teamEngine": "Honda"
   },
   {
-    "name": "Ferrari",
-    "previousname": "none",
-    "firstrace": "Mônaco 1950"
+    "teamName": "Ferrari",
+    "teamPreviousName": "none",
+    "teamFirstRace": "Mônaco 1950",
+    "teamEngine": "Ferrari"
   }  
 ]

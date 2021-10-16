@@ -1,18 +1,18 @@
 [
   {
-    "name": "Fernando Alonso Díaz",
-    "nickname": "Príncipe das Astúrias",
-    "country": "Espanha",
-    "team": "Alpine F1 Team",
-    "races": "331",
-    "victories": "32"
+    "pilotName": "Fernando Alonso Díaz",
+    "pilotNickname": "Príncipe das Astúrias",
+    "pilotBirth": "29/07/1981",
+    "pilotCountry": "Espanha",
+    "pilotTeam": "Alpine F1 Team",
+    "pilotLastWin": "GP de Barcelona 2013"
   },
   {
-    "name": "Lewis Carl Davidson Hamilton",
-    "nickname": "Sir Lewis Hamilton",
-    "country": "Espanha",
-    "team": "Mercedes AMG Petronas",
-    "races": "282",
-    "victories": "100"
+    "pilotName": "Lewis Carl Davidson Hamilton",
+    "pilotNickname": "Sir Lewis Hamilton",
+    "pilotBirth": "07/01/1985",
+    "pilotCountry": "Reino Unido",
+    "pilotTeam": "Mercedes AMG Petronas",
+    "pilotLastWin": "GP da Rússia 2021"
   }
 ]

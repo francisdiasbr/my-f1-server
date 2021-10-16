@@ -1,12 +1,18 @@
 [
   {
-    "name": "Adelaide",
-    "code": "AUS",
-    "country": "Australia"
+    "circuitName": "Circuito de Rua de Adelaide",
+    "circuitCountry": "Australia",
+    "circuitCity": "Adelaide",
+    "circuitFastestLapTime": "1'15\"381",
+    "circuitFastestLapYear": "1993",
+    "circuitfastestLapPilot": "Damon Hill"
   },
   {
-    "name": "Interlagos",
-    "code": "BRA",
-    "country": "Brazil"
+    "circuitName": "Circuito de Mônaco",
+    "circuitCountry": "Mônaco",
+    "circuitCity": "Monte Carlo",
+    "circuitFastestLapTime": "1'12\"909",
+    "circuitFastestLapYear": "2021",
+    "circuitFastestLapPilot": "Lewis Hamilton"
   }
 ]
