@@ -6,9 +6,12 @@
         "start": "nodemon src/server.js"
     },
     "dependencies": {
+        "axios": "^1.2.2",
         "cors": "^2.8.5",
         "express": "^4.17.1",
-        "mongoose": "^6.8.3"
+        "lodash": "^4.17.21",
+        "mongoose": "^6.8.3",
+        "mongoose-paginate-v2": "^1.7.1"
     },
     "devDependencies": {
         "nodemon": "^2.0.20"
