@@ -1,13 +1,11 @@
 [
   {
     "circuitName": "Autódromo Nacional de Monza",
-    "circuitCountry": "Itália",
     "raceDate": "12/09/2021",
     "raceWinner": "Daniel Ricciardo"
   },
   {
     "circuitName": "Melbourne Grand Prix Circuit",
-    "circuitCountry": "Austrália",
     "raceDate": "06/03/2005",
     "raceWinner": "Giancarlo Fisichella"
   }

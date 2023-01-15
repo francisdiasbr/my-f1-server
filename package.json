@@ -1,10 +1,16 @@
 {
     "name": "myfirstserver",
+    "version": "0.0.1",
+    "license": "F1",
     "scripts": {
-        "start": "node server.js"
+        "start": "nodemon src/server.js"
     },
     "dependencies": {
         "cors": "^2.8.5",
-        "express": "^4.17.1"
+        "express": "^4.17.1",
+        "mongoose": "^6.8.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
     }
 }
