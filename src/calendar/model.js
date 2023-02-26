@@ -1,20 +1,24 @@
 const mongoose = require('mongoose')
 const mongoosePaginate = require('mongoose-paginate-v2')
 
-const SchemaName = 'Races'
+const SchemaName = 'Calendar'
 
 const Schema = new mongoose.Schema({
-  raceName: {
+  gpName: {
     type: String,
     required: true
   },
-  raceDate: {
+  gpCountry: {
     type: String,
     required: true
   },
-  raceWinner: {
+  gpDate: {
     type: String,
-    required: false
+    required: true
+  },
+  gpFlag: {
+    type: String,
+    required: true
   },
 }, {
   timestamps: true
