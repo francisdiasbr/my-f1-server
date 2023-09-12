@@ -1,3 +1,9 @@
+Instalar as dependências: `yarn`
+
+Rodar o projeto: `yarn start`
+
+------
+
 Step 1 - Create routes to get and post circuits (routes.js)
 ```
 routes.get('/circuits/filter', (req, res) => {
